@@ -1,0 +1,57 @@
+<?xml version="1.0"?> 
+<!DOCTYPE DOCUMENT SYSTEM "plik.dtd">
+
+
+<BOOK>
+   <BOOKTITLE>Grapes of Wrath</BOOKTITLE>
+   <AUTHOR>Steinbeck, John</AUTHOR>
+   <INTRO>20th century literature</INTRO>
+   <CHAPTER>
+      <CHAPTERTITLE>Chapter 1</CHAPTERTITLE>
+      <PAGE>1</PAGE>
+      <SECTION>
+         <SECTIONTITLE>Section 1</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+      <SECTION>
+         <SECTIONTITLE>Section 2</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+      <SECTION>
+         <SECTIONTITLE>Section 3</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+   </CHAPTER>
+   <CHAPTER>
+      <CHAPTERTITLE>Chapter 2</CHAPTERTITLE>
+      <PAGE>1</PAGE>
+      <SECTION>
+         <SECTIONTITLE>Section 1</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+      <SECTION>
+         <SECTIONTITLE>Section 2</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+      <SECTION>
+         <SECTIONTITLE>Section 3</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+   </CHAPTER>
+   <CHAPTER>
+      <CHAPTERTITLE>Chapter 3</CHAPTERTITLE>
+      <PAGE>1</PAGE>
+      <SECTION>
+         <SECTIONTITLE>Section 1</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+      <SECTION>
+         <SECTIONTITLE>Section 2</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+      <SECTION>
+         <SECTIONTITLE>Section 3</SECTIONTITLE>
+         <PARAGRAPH>First</PARAGRAPH>
+      </SECTION>
+   </CHAPTER>
+</BOOK>

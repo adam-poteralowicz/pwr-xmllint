@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <xsd:element name="BOOK">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="BOOKTITLE" type="xsd:string"/>
+            <xsd:element name="AUTHOR" type="xsd:string"/>
+            <xsd:element name="INTRO" type="xsd:string"/>
+            <xsd:element name="CHAPTER" type="xsd:string">
+            	<xsd:complexType>
+            		<xsd:simpleContent>
+            			<xsd:element name="CHAPTERTITLE" type="xsd:string"/>
+            			<xsd:element name="PAGE" type="xsd:int"/>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="CHAPTER" type="xsd:string">
+            	<xsd:complexType>
+            		<xsd:sequence>
+            			<xsd:element name="CHAPTERTITLE" type="xsd:string"/>
+            			<xsd:element name="PAGE" type="xsd:int"/>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="CHAPTER" type="xsd:string">
+            	<xsd:complexType>
+            		<xsd:sequence>
+            			<xsd:element name="CHAPTERTITLE" type="xsd:string"/>
+            			<xsd:element name="PAGE" type="xsd:int"/>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            			<xsd:element name="SECTION" type="xsd:string">
+            				<xsd:complexType>
+            					<xsd:sequence>
+            						<xsd:element name="SECTIONTITLE" type="xsd:string"/>
+            						<xsd:element name="PARAGRAPH" type="xsd:string"/>
+            					</xsd:sequence>
+            				</xsd:complexType>
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+</xsd:schema>

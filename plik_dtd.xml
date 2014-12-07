@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<!DOCTYPE web-app
+   PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+   "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+	<book>
+	<title>Grapes of Wrath</title>
+	<author>Steinbeck, John</author>
+	<intro>20th century literature</intro>
+	<chapter>
+		<title>Chapter 1</title>
+		<page>1</page>
+		<section>
+			<title>Section 1</title>
+			<paragraph>First</paragraph>
+		</section>
+		<section>
+			<title>Section 2</title>
+			<paragraph>First</paragraph>
+		</section>
+		<section>
+			<title>Section3</title>
+			<paragraph>First</paragraph>
+		</section>
+	</chapter>
+	<chapter>
+		<title>Chapter 2</title>
+		<page>1</page>
+		<section>
+			<title>Section 1</title>
+			<paragraph>First</paragraph>
+		</section>
+		<section>
+			<title>Section 2</title>
+			<paragraph>First</paragraph>
+		</section>
+		<section>
+			<title>Section3</title>
+			<paragraph>First</paragraph>
+		</section>
+	</chapter>
+	<chapter>
+		<title>Chapter 3</title>
+		<page>1</page>
+		<section>
+			<title>Section 1</title>
+			<paragraph>First</paragraph>
+		</section>
+		<section>
+			<title>Section 2</title>
+			<paragraph>First</paragraph>
+		</section>
+		<section>
+			<title>Section3</title>
+			<paragraph>First</paragraph>
+		</section>
+	</chapter>
+</book>
+</web-app>
